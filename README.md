@@ -37,7 +37,7 @@ This repository implements various active learning (AL), multi-fidelity active l
 All major results (plots, pickle files, model diagnostics) are stored in the `Results/` folder. These include:
 - Optimization convergence plots
 - Regret analysis
-- Predicted vs actual TEC comparisons
+- Predicted vs actual CTE comparisons
 - Run-wise statistics and top-performing compositions
 
 
