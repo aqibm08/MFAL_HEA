@@ -40,6 +40,7 @@ All major results (plots, pickle files, model diagnostics) are stored in the `Re
 - Predicted vs actual CTE comparisons
 - Run-wise statistics and top-performing compositions
 
+![EI_animation](https://github.com/user-attachments/assets/eec5e0db-0c07-4703-8ac7-5a268367cb0d)
 
 
 ## 🛠 Dependencies
