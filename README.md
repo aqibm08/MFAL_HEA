@@ -10,13 +10,13 @@ This repository implements various active learning (AL), multi-fidelity active l
 
 | File/Folder     | Description |
 |----------------|-------------|
-| `Data_base.csv` | Source dataset extracted from Rao et al. (2022) containing composition and thermal expansion coefficients (TEC) of HEAs. |
+| `Data_base.csv` | Source dataset extracted from Rao et al. (2022) containing composition and coefficient of thermal expansion  (CTE) of HEAs. |
 | `AL_GPR.py`     | Active learning using **Gaussian Process Regression** (GPR) with acquisition functions like EI and LCB. |
 | `AL_RFV.py`     | Active learning using **Random Forest Regression** with exploration vs. exploitation strategies. |
 | `MFAL.py`       | **Multi-Fidelity Active Learning (MFAL)** framework incorporating both low- and high-fidelity surrogate models with dynamic fidelity-aware acquisition strategies. |
 | `ANN.py`        | Neural Network (ANN)-based regression model with PCA preprocessing and outlier filtering. |
 | `GPR.py`        | Standalone Gaussian Process Regression model with cross-validation and model diagnostics. |
-| `ML.py`         | Utility or orchestration script for experiments or unified execution (assumed based on filename). |
+| `ML.py`         | Machine Learning Models (RFR, SVR, XGBR). |
 | `preprocessing.ipynb` | Jupyter notebook for preprocessing, visualization, and initial exploration. |
 | `Results/`      | Pickle files and generated plots storing experiment outputs and analysis results. |
 
