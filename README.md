@@ -40,7 +40,7 @@ All major results (plots, pickle files, model diagnostics) are stored in the `Re
 - Predicted vs actual TEC comparisons
 - Run-wise statistics and top-performing compositions
 
-![AL_anim](https://github.com/user-attachments/assets/22ca607f-df88-4f9e-a917-d2051c5d6d1f)
+
 
 ## 🛠 Dependencies
 
